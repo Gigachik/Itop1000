@@ -1,0 +1,21 @@
+.header {
+    padding: 20px 0;
+}
+
+.header_currency {
+    display: flex;
+    align-items: center;
+    background: #211f1f;
+    padding: 15px 30px;
+    border-radius: 14px;
+    box-shadow: 0 1px 9px rgba(255, 255, 255, 0.2);
+}
+.header_currency span {
+    margin-right: 25px;
+    color: #fff;
+    font-size: 32px;
+}
+
+.header_currency span:last-child {
+    margin-right: 0;
+}
